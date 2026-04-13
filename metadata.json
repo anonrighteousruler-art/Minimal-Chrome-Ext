@@ -1,0 +1,7 @@
+{
+  "name": "Minimalist Chrome Extension UI",
+  "description": "A clean, Apple-like UI for a Chrome extension featuring a side panel chat interface and a compact popup menu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
